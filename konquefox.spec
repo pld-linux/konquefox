@@ -4,9 +4,9 @@ Summary:	Konquefox extension for Firefox
 Name:		konquefox
 Version:	1.6.1
 Release:	0.1
-License:	BSD License
+License:	Freeware
 Group:		Development/Languages/PHP
-URL:		https://addons.mozilla.org/en-US/firefox/addon/2671
+URL:		http://konquefox.free.fr/
 Source0:	https://addons.mozilla.org/en-US/firefox/downloads/file/31174/%{name}-%{version}-fx.xpi
 # Source0-md5:	9576fe6d09adf98fe4fc7bcee6551158
 BuildArch:	noarch
